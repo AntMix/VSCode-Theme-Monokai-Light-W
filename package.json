@@ -1,0 +1,23 @@
+{
+    "name": "monokai-light-w",
+    "displayName": "Monokai Light W",
+    "description": "Monokai ligth theme",
+    "version": "0.0.1",
+    "publisher": "AntMix",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Light W",
+                "uiTheme": "vs",
+                "path": "./themes/Monokai Light W-color-theme.json"
+            }
+        ]
+    }
+}
